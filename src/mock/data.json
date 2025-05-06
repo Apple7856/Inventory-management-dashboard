@@ -1,0 +1,163 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "stock": 25,
+    "price": 29.99
+  },
+  {
+    "id": "2",
+    "name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "stock": 10,
+    "price": 59.99
+  },
+  {
+    "id": "3",
+    "name": "Graphic T-Shirt",
+    "category": "Apparel",
+    "stock": 100,
+    "price": 19.99
+  },
+  {
+    "id": "4",
+    "name": "Running Shoes",
+    "category": "Apparel",
+    "stock": 45,
+    "price": 89.99
+  },
+  {
+    "id": "5",
+    "name": "Organic Granola",
+    "category": "Food",
+    "stock": 8,
+    "price": 5.49
+  },
+  {
+    "id": "6",
+    "name": "Dark Chocolate Bar",
+    "category": "Food",
+    "stock": 0,
+    "price": 2.99
+  },
+  {
+    "id": "7",
+    "name": "LED Desk Lamp",
+    "category": "Electronics",
+    "stock": 15,
+    "price": 39.95
+  },
+  {
+    "id": "8",
+    "name": "Hooded Sweatshirt",
+    "category": "Apparel",
+    "stock": 60,
+    "price": 34.99
+  },
+  {
+    "id": "9",
+    "name": "Protein Bar Pack",
+    "category": "Food",
+    "stock": 20,
+    "price": 14.99
+  },
+  {
+    "id": "10",
+    "name": "Smartphone Stand",
+    "category": "Electronics",
+    "stock": 32,
+    "price": 12.5
+  },
+  {
+    "id": "11",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "stock": 25,
+    "price": 29.99
+  },
+  {
+    "id": "12",
+    "name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "stock": 10,
+    "price": 59.99
+  },
+  {
+    "id": "13",
+    "name": "Graphic T-Shirt",
+    "category": "Apparel",
+    "stock": 100,
+    "price": 19.99
+  },
+  {
+    "id": "14",
+    "name": "Running Shoes",
+    "category": "Apparel",
+    "stock": 45,
+    "price": 89.99
+  },
+  {
+    "id": "15",
+    "name": "Organic Granola",
+    "category": "Food",
+    "stock": 8,
+    "price": 5.49
+  },
+  {
+    "id": "16",
+    "name": "Dark Chocolate Bar",
+    "category": "Food",
+    "stock": 0,
+    "price": 2.99
+  },
+  {
+    "id": "17",
+    "name": "LED Desk Lamp",
+    "category": "Electronics",
+    "stock": 15,
+    "price": 39.95
+  },
+  {
+    "id": "18",
+    "name": "Hooded Sweatshirt",
+    "category": "Apparel",
+    "stock": 60,
+    "price": 34.99
+  },
+  {
+    "id": "19",
+    "name": "Protein Bar Pack",
+    "category": "Food",
+    "stock": 20,
+    "price": 14.99
+  },
+  {
+    "id": "20",
+    "name": "Smartphone Stand",
+    "category": "Electronics",
+    "stock": 32,
+    "price": 12.5
+  },
+  {
+    "id": "21",
+    "name": "Running Shoes",
+    "category": "Apparel",
+    "stock": 45,
+    "price": 89.99
+  },
+  {
+    "id": "22",
+    "name": "Organic Granola",
+    "category": "Food",
+    "stock": 8,
+    "price": 5.49
+  },
+  {
+    "id": "23",
+    "name": "Dark Chocolate Bar",
+    "category": "Food",
+    "stock": 0,
+    "price": 2.99
+  }
+]
